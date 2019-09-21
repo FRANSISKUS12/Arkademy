@@ -1,0 +1,17 @@
+{
+  "name": "Fransiskus Hadiyanto Christiono",
+  "age": 18,
+  "address": "Jl rambutan 14a no 8 Tegal",
+  "hobbies": [
+    "Baca buku",
+    "Jalan-jalan",
+    "Makan"
+  ],
+  "is_married": false,
+  "list_school": [
+    "SD PIUS TEGAL 2006-2013 ",
+    "SMP PIUS TEGAL 2013 -2016",
+    "SMA PIUS TEGAL 2016 - 2019"
+    ],
+  "interest_in_coding": true
+}
